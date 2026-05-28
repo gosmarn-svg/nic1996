@@ -1,0 +1,11 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+data={"office_worker":["luigi","lara"],
+"numbers_of_work":[10,20]}
+df=pd.DataFrame(data)
+print(df)
+max_number_of_work=plt.bar(df["office_worker"],df["numbers_of_work"])
+max_number_of_work=plt.ylabel("numbers_of_work(number)")
+max_number_of_work=plt.xlabel("office_worker (name)")
+table=plt.barh(df["office_worker"],df["numbers_of_work"])
+table=plt.xlabel("office_worker(name)")
