@@ -1,0 +1,8 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+data={"age_of_people_grow_in_a_place":[65,77,78]
+,"age_of_people_moved":[48,54]}
+df=pd.DataFrame(data)
+print(df)
+max_age_of_people_in_this_place=df.query("age_of_people_grow_in_a_place<70")
+print(max_age_of_people_in_this_place)
