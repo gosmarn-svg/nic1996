@@ -1,0 +1,13 @@
+# nic1996
+personal python project
+import pandas as pd
+import matplotlib.pyplot as plt
+import pandas as pd
+data={"age_of_people_grow_in_a_place":[65,77,78]
+,"age_of_people_moved":[48,54]}
+df=pd.DataFrame(data)
+print(df)
+max_age_of_people_in_this_place=df.query("age_of_people_grow_in_a_place<70")
+print(max_age_of_people_in_this_place)
+people_age=plt.bar(df["age_of_people_grow_in_a_place"],df["age_of_people_moved"])
+people_age=plt.ylabel("age_of_people_moved")
