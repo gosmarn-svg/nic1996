@@ -1,0 +1,8 @@
+import panda as pd
+data={"product":["gloves","scissors"] 
+"quantity":[15,20]
+"Max_stock":[29,23]}
+df=pd.DataFrame(data)
+print(df)
+low_stock:df.query("quantity<15)
+print(low_stock)
