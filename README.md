@@ -22,7 +22,19 @@ Qui raccolgo gli esercizi e i mini-progetti che realizzo mentre studio Python da
 - Dizionari
 - File
 - Mini-progetti
+## 📂 Progetti
 
+Attualmente il repository contiene piccoli esercizi per consolidare le basi di Python.
+
+### Esercizi disponibili
+
+- 📅 birthdate.py → Calcola l'età dell'utente.
+- 👥 people_age → Gestione dell'età di più persone.
+- ➕ add_people_age → Somma delle età.
+- 🏢 office_worker → Esercizio sulla gestione di lavoratori.
+- 📦 warehouse_inventory → Gestione di un semplice magazzino.
+
+Nuovi progetti verranno aggiunti durante il mio percorso di apprendimento.
 ## Tecnologie
 
 - Python 3
