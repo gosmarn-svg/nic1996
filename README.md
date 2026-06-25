@@ -1,53 +1,41 @@
-
 # 🐍 Python Learning Projects
 
-Benvenuto nel mio repository!
+Ciao! Mi chiamo Nicolo'e sono uno studente di Informatica.
 
-Qui raccolgo gli esercizi e i mini-progetti che realizzo mentre studio Python da autodidatta.
+In questo repository raccolgo esercizi e piccoli progetti Python realizzati durante il mio percorso di studio e apprendimento personale.
 
-## Obiettivi
+L’obiettivo è migliorare passo dopo passo nella programmazione, costruendo basi solide e documentando la mia crescita su GitHub.
 
-- Imparare Python
+## 🎯 Obiettivi
+
+- Rafforzare le basi di Python
 - Migliorare la logica di programmazione
-- Costruire un portfolio professionale
+- Imparare a scrivere codice più ordinato e leggibile
+- Costruire un portfolio tecnico durante il percorso universitario
 
-## Argomenti
+## 📚 Argomenti
 
-- Variabili
-- Input e Output
+- Variabili e tipi di dato
+- Input e output
 - Condizioni
 - Cicli
 - Funzioni
-- Liste
-- Dizionari
+- Liste e dizionari
 - File
 - Mini-progetti
-## 📂 Progetti
 
-Attualmente il repository contiene piccoli esercizi per consolidare le basi di Python.
-
-### Esercizi disponibili
-
-- 📅 birthdate.py → Calcola l'età dell'utente.
-- 👥 people_age → Gestione dell'età di più persone.
-- ➕ add_people_age → Somma delle età.
-- 🏢 office_worker → Esercizio sulla gestione di lavoratori.
-- 📦 warehouse_inventory → Gestione di un semplice magazzino.
-
-Nuovi progetti verranno aggiunti durante il mio percorso di apprendimento.
-## Tecnologie
+## 🛠️ Tecnologie
 
 - Python 3
 - Git
 - GitHub
 
-## Autore
+## 📜 Certificazioni
 
-Nicolo' gosmar
+- Cisco Data Science Essentials
 
-## 📈 Stato del progetto
+## 🚀 Stato del progetto
 
-🚀 Repository in continuo aggiornamento.
+Repository in continuo aggiornamento.
 
-Obiettivo: imparare Python costruendo esercizi e mini-progetti sempre più complessi.
-
+Ogni esercizio rappresenta un passo del mio percorso di crescita come studente di Informatica e futuro sviluppatore.
