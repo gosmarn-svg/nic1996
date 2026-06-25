@@ -44,3 +44,10 @@ Nuovi progetti verranno aggiunti durante il mio percorso di apprendimento.
 ## Autore
 
 Nicolo' gosmar
+
+## 📈 Stato del progetto
+
+🚀 Repository in continuo aggiornamento.
+
+Obiettivo: imparare Python costruendo esercizi e mini-progetti sempre più complessi.
+
