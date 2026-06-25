@@ -31,4 +31,4 @@ Qui raccolgo gli esercizi e i mini-progetti che realizzo mentre studio Python da
 
 ## Autore
 
-Nicola Gosmar
+Nicolo' gosmar
