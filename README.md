@@ -1,23 +1,34 @@
-.globl _start
-.text
 
+# 🐍 Python Learning Projects
 
-_start:
-li t0,3 #valore di x
-li t1,5 #valore y
-beq t0,t1,ELSE
-addi t0,t0,2
-beq zero,zero,endif
+Benvenuto nel mio repository!
 
+Qui raccolgo gli esercizi e i mini-progetti che realizzo mentre studio Python da autodidatta.
 
+## Obiettivi
 
+- Imparare Python
+- Migliorare la logica di programmazione
+- Costruire un portfolio professionale
 
+## Argomenti
 
-ELSE:
-addi t1,t1,-1
+- Variabili
+- Input e Output
+- Condizioni
+- Cicli
+- Funzioni
+- Liste
+- Dizionari
+- File
+- Mini-progetti
 
+## Tecnologie
 
-endif:
+- Python 3
+- Git
+- GitHub
 
-li a7,10
-ecall
+## Autore
+
+Nicola Gosmar
